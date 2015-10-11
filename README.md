@@ -1,2 +1,12 @@
-# TestForGitHub_20151011
-GitHubテスト用(2015/10/11)
+# (2) This is a test file for md of GitHub.
+# (2) テストファイルです。
+
+---
+
+* item1
+* item2
+* item3
+
+## ファイル構成
+
+## リリース方法
